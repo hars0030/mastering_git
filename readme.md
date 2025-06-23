@@ -1,5 +1,5 @@
-## Heyoo everyone 
+## Welcome to git
 
-- yo harsh hkg here
+- this is coming from dev-Harsh
 
--Adding this from feat-branch
+- Adding this from feat-branch
